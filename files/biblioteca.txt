@@ -1,0 +1,10 @@
+Mandrie si prejudecata,Jane Austen,Roman,Raft 10 Rand 1,1
+Amintiri din copilarie,Ion Creanga,Povestiri,Raft 2 Rand 4,1
+Anna Karenina,Lev Tolstoi,Roman,Raft 7 Rand 9,1
+Razboi si pace,Lev Tolstoi,Roman,Raft 21 Rand 3,1
+Crima si pedeapsa,Fiodor Dostoievski,Roman,Raft 11 Rand 22,1
+Moara cu noroc,Ioan Slavici,Roman,Raft 4 Rand 17,1
+Enigma Otiliei,George Calinescu,Roman,Raft 8 Rand 2,1
+Ion,Liviu Rebreanu,Roman,Raft 8 Rand 5,1
+Morometii,Marin Preda,Roman,Raft 6 Rand 11,1
+Titlu carte,Autor carte,Tip carte,Locatie carte,1
